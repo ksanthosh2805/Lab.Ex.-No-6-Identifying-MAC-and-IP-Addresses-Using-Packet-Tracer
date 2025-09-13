@@ -61,6 +61,7 @@ ________________________________________
 
 <img width="630" height="625" alt="Screenshot 2025-09-13 141516" src="https://github.com/user-attachments/assets/35fd84ad-f3f8-474c-882e-5181c59f495d" />
 <br>
+<br>
 
 ### •	PDU details for remote communication(Pinging from 172.16.31.5 to 10.10.10.2)<br>
 
@@ -71,7 +72,8 @@ ________________________________________
 
 ##### PDU at 10.10.10.2
 <img width="630" height="608" alt="image" src="https://github.com/user-attachments/assets/0c380fbd-dc53-4185-93b1-073988454bd7" />
-
+<br>
+<br>
 ### •	Tables showing MAC/IP changes through each device<br>
 
 ##### Local Communication(From 172.16.31.5 to 172.16.31.2)
