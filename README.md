@@ -50,7 +50,7 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 172.16.31.2	00D0:D311:C788	000C:85CC:1DA7	172.16.31.2	172.16.31.5<br>
 ________________________________________
 # Output (Screenshots)
-#### •	PDU details for local communication(Pinging from 172.16.31.5 to 172.16.31.2)<br>
+### •	PDU details for local communication(Pinging from 172.16.31.5 to 172.16.31.2)<br>
 
 ##### PDU at 172.16.31.5
 
@@ -62,7 +62,7 @@ ________________________________________
 <img width="630" height="625" alt="Screenshot 2025-09-13 141516" src="https://github.com/user-attachments/assets/35fd84ad-f3f8-474c-882e-5181c59f495d" />
 <br>
 
-#### •	PDU details for remote communication(Pinging from 172.16.31.5 to 10.10.10.2)<br>
+### •	PDU details for remote communication(Pinging from 172.16.31.5 to 10.10.10.2)<br>
 
 ##### PDU at 172.16.31.5
 <img width="630" height="608" alt="image" src="https://github.com/user-attachments/assets/da7f7289-ee4f-422d-9efb-988b4dfc0daa" />
@@ -72,7 +72,7 @@ ________________________________________
 ##### PDU at 10.10.10.2
 <img width="630" height="608" alt="image" src="https://github.com/user-attachments/assets/0c380fbd-dc53-4185-93b1-073988454bd7" />
 
-#### •	Tables showing MAC/IP changes through each device<br>
+### •	Tables showing MAC/IP changes through each device<br>
 
 ##### Local Communication(From 172.16.31.5 to 172.16.31.2)
 <img width="622" height="137" alt="image" src="https://github.com/user-attachments/assets/5e4c28b1-085d-459c-8bbc-f28ff7f63d16" />
