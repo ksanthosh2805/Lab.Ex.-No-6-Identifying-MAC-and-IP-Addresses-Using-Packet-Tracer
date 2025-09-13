@@ -52,24 +52,24 @@ ________________________________________
 # Output (Screenshots)
 #### •	PDU details for local communication(Pinging from 172.16.31.5 to 172.16.31.2)<br>
 
-##### At 172.16.31.5
+##### PDU at 172.16.31.5
 
 <img width="630" height="609" alt="Screenshot 2025-09-13 141429" src="https://github.com/user-attachments/assets/e6c43d50-0f33-4de1-8f60-ae1823624c60" />
 <br>
 
-##### At 172.16.31.2
+##### PDU at 172.16.31.2
 
 <img width="630" height="625" alt="Screenshot 2025-09-13 141516" src="https://github.com/user-attachments/assets/35fd84ad-f3f8-474c-882e-5181c59f495d" />
 <br>
 
 #### •	PDU details for remote communication(Pinging from 172.16.31.5 to 10.10.10.2)<br>
 
-##### At 172.16.31.5
+##### PDU at 172.16.31.5
 <img width="630" height="608" alt="image" src="https://github.com/user-attachments/assets/da7f7289-ee4f-422d-9efb-988b4dfc0daa" />
 
 <br>
 
-##### At 10.10.10.2
+##### PDU at 10.10.10.2
 <img width="630" height="608" alt="image" src="https://github.com/user-attachments/assets/0c380fbd-dc53-4185-93b1-073988454bd7" />
 
 #### •	Tables showing MAC/IP changes through each device<br>
